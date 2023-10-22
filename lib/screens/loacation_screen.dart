@@ -75,3 +75,12 @@ class _LocationScreenState extends State<LocationScreen> {
     );
   }
 }
+
+//  String data=response.body;
+//     var longitude= jsonDecode(data)['coord']['lon'];
+//     var latitude= jsonDecode(data)['coord']['lat'];
+
+//     double temperature=jsonDecode(data)['main']['temp'];
+//     int Condition=jsonDecode(data)['weather'][0]['id  '];
+//     String cityName=jsonDecode(data)[''];
+//     print(longitude);
